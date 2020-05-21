@@ -1,0 +1,10 @@
+<resources>
+
+    <!--  Tab Bar Title  -->
+    <string name="title_home">旅遊指南</string>
+    <string name="title_nearby">附近景點</string>
+    <string name="title_travel">旅學日誌</string>
+    <string name="title_news">新聞</string>
+    <string name="title_others">其他</string>
+
+</resources>
